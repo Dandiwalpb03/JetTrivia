@@ -99,7 +99,7 @@ dependencies {
 
     // ViewModel
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
-    
+
 
 
     // Coroutines (this will allow us to run processes out side of main thread.
